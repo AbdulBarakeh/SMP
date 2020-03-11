@@ -1,4 +1,5 @@
 # SMP
+(OPEN IN RAW UNTIL I FIND OUT HOW TO FORMAT IT!)
 Preperation for SMP examination.
 Changes might occure. 
 For now the structure will be
